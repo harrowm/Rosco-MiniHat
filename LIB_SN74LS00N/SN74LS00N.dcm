@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LS00N
+D QUADRUPLE 2-INPUT POSITIVE-NAND GATES
+K
+F http://www.ti.com/lit/gpn/sn74ls00
+$ENDCMP
+#
+#End Doc Library

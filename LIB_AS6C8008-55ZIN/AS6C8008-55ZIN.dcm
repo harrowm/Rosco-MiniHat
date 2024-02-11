@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS6C8008-55ZIN
+D Alliance Memory, AS6C8008-55ZIN SRAM Memory, 8Mbit, 55ns, 2.7  5.5 V 44-Pin TSOP
+K
+F https://www.alliancememory.com/wp-content/uploads/pdf/AS6C8008.pdf
+$ENDCMP
+#
+#End Doc Library

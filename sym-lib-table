@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AS6C8008-55ZIN")(type "KiCad")(uri "${KIPRJMOD}/LIB_AS6C8008-55ZIN/AS6C8008-55ZIN.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LS00N")(type "KiCad")(uri "${KIPRJMOD}/LIB_SN74LS00N/SN74LS00N.kicad_sym")(options "")(descr ""))
+)
