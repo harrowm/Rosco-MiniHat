@@ -6,9 +6,7 @@ Added PLD code.
 Fix small spacing issues between J6 and the RAM sockets. 
 Going to fab at end Feb 2024 .. and it works !
 
-![Screenshot](screenshot1.png)
-
-![Screenshot](screenshot2.png)
+![Screenshot](board.jpeg)
 
 ### V2
 With patch to J6, this version works ! 
